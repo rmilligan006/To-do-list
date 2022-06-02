@@ -1,2 +1,6 @@
 # To do list
- Creating a to do list to learn, and get used to using Jquery
+It allows the user to: 
+- Add an item to the list
+- Remove an item from the list
+- Mark an existing item on the list as done
+- Change the items list order
